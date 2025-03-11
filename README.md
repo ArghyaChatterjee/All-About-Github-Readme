@@ -70,3 +70,8 @@ Answer:
 Answer:
 
 [![](https://drive.google.com/thumbnail?authuser=0&sz=w1280&id=1gTQt6soSIq1g2QmK7locHDiZ-8MqVl2w)](https://drive.google.com/file/d/1gTQt6soSIq1g2QmK7locHDiZ-8MqVl2w/view?usp=sharing) 
+
+## How to add a table in the readme ?
+
+Answer:
+
