@@ -15,6 +15,11 @@ Center your tittle like this:
   
 Answer:
 
+<div align="center">
+  <img src="media/zed_coordinate_system.png" width="400">
+  <img src="media/zed_coordinate_system.png" width="400">
+</div>
+
 - How to add 4 photos in the readme ?
 
 Answer:
@@ -50,17 +55,17 @@ Answer:
   </tr>
 </table>
 
-- How to embed youtube link in the readme with photos ?
+- How to embed youtube link in the readme with thumbnails ?
 
 Answer:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=UvvialselvU" target="_blank">
-    <img src="media/hydra.GIF" alt="Video Thumbnail" width="80%">
+    <img src="media/teaser.gif" alt="Video Thumbnail" width="80%">
   </a>
 </p>
 
-- How to embed google drive link in the readme with photos ?
+- How to embed google drive link in the readme with a thumbnail ?
 
 Answer:
 
