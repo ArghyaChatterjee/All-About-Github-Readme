@@ -11,16 +11,16 @@ Center your tittle like this:
  <h1>Center Your Readme Title</h1>
 </div>
 
-## How to add 2 photos in the readme ?
+## How to add 2 photos side by side in the readme ?
   
 Answer:
 
 <div align="center">
   <img src="media/rviz.png" width="400">
-  <img src="media/zed_coordinate_system.png" width="400">
+  <img src="media/zed_coordinate_system.png" width="300">
 </div>
 
-## How to add 4 photos in the readme ?
+## How to add 4 photos in 2 rows in the readme ?
 
 Answer:
 
@@ -60,7 +60,7 @@ Answer:
 Answer:
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=UvvialselvU" target="_blank">
+  <a href="https://www.youtube.com/watch?v=OIrF6zDRH64" target="_blank">
     <img src="media/teaser.gif" alt="Video Thumbnail" width="80%">
   </a>
 </p>
