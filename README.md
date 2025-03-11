@@ -1,7 +1,7 @@
 # All-About-Github-Readme
 This repository is all about instructions for writing good github readmes. 
 
-- How to make the github readme title centered ?
+## How to make the github readme title centered ?
   
 Answer:
 
@@ -11,7 +11,7 @@ Center your tittle like this:
  <h1>Center Your Readme Title</h1>
 </div>
 
-- How to add 2 photos in the readme ?
+## How to add 2 photos in the readme ?
   
 Answer:
 
@@ -20,7 +20,7 @@ Answer:
   <img src="media/zed_coordinate_system.png" width="400">
 </div>
 
-- How to add 4 photos in the readme ?
+## How to add 4 photos in the readme ?
 
 Answer:
 
@@ -55,7 +55,7 @@ Answer:
   </tr>
 </table>
 
-- How to embed youtube link in the readme with thumbnails ?
+## How to embed youtube link in the readme with thumbnails ?
 
 Answer:
 
@@ -65,7 +65,7 @@ Answer:
   </a>
 </p>
 
-- How to embed google drive link in the readme with a thumbnail ?
+## How to embed google drive link in the readme with a thumbnail ?
 
 Answer:
 
