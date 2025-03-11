@@ -16,7 +16,7 @@ Center your tittle like this:
 Answer:
 
 <div align="center">
-  <img src="media/zed_coordinate_system.png" width="400">
+  <img src="media/rviz.png" width="400">
   <img src="media/zed_coordinate_system.png" width="400">
 </div>
 
