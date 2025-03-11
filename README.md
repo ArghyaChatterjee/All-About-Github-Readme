@@ -2,7 +2,9 @@
 This repository is all about instructions for writing good github readmes. 
 
 - How to make the github readme title centered ?
+  
 Answer:
+
 Center your tittle like this:
 
 <div align="center">
@@ -10,10 +12,13 @@ Center your tittle like this:
 </div>
 
 - How to add 2 photos in the readme ?
+  
 Answer:
 
 - How to add 4 photos in the readme ?
+
 Answer:
+
 <table>
   <tr>
     <td>
@@ -44,13 +49,19 @@ Answer:
     </td>
   </tr>
 </table>
+
 - How to embed youtube link in the readme with photos ?
+
 Answer:
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=UvvialselvU" target="_blank">
     <img src="media/hydra.GIF" alt="Video Thumbnail" width="80%">
   </a>
 </p>
+
 - How to embed google drive link in the readme with photos ?
+
 Answer:
+
 [![](https://drive.google.com/thumbnail?authuser=0&sz=w1280&id=1gTQt6soSIq1g2QmK7locHDiZ-8MqVl2w)](https://drive.google.com/file/d/1gTQt6soSIq1g2QmK7locHDiZ-8MqVl2w/view?usp=sharing) 
