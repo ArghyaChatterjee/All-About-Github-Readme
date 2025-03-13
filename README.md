@@ -75,3 +75,57 @@ Answer:
 
 Answer:
 
+## How to hide something in the readme?
+
+Answer:
+<details>
+  <summary>Show data folder structure</summary>
+  
+```
+├── hm3dsem_walks
+│   ├── val
+│   │   ├── 00824-Dd4bFSTQ8gi
+│   │   │   ├── depth
+│   │   │   │   ├── Dd4bFSTQ8gi-000000.png
+│   │   │   │   ├── ...
+│   │   │   ├── rgb
+│   │   │   │   ├── Dd4bFSTQ8gi-000000.png
+│   │   │   │   ├── ...
+│   │   │   ├── semantic
+│   │   │   │   ├── Dd4bFSTQ8gi-000000.png
+│   │   │   │   ├── ...
+│   │   │   ├── pose
+│   │   │   │   ├── Dd4bFSTQ8gi-000000.png
+│   │   │   │   ├── ...
+|   |   ├── 00829-QaLdnwvtxbs
+|   |   ├── ..
+├── Replica
+│   ├── office0
+│   │   ├── results
+│   │   │   ├── depth0000.png
+│   │   │   ├── ...
+│   │   |   ├── rgb0000.png
+│   │   |   ├── ...
+│   │   ├── traj.txt
+│   ├── office1
+│   ├── ...
+├── ScanNet
+│   ├── scans
+│   │   ├── scene0011_00
+│   │   │   ├── color
+│   │   │   │   ├── 0.jpg
+│   │   │   │   ├── ...
+│   │   │   ├── depth
+│   │   │   │   ├── 0.png
+│   │   │   │   ├── ...
+│   │   │   ├── poses
+│   │   │   │   ├── 0.txt
+│   │   │   │   ├── ...
+│   │   │   ├── internsics
+│   │   │   │   ├── intrinsics_color.txt
+│   │   │   │   ├── intrinsics_depth.txt
+│   │   ├── ..
+```
+
+</details>
+
