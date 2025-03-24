@@ -71,6 +71,14 @@ Answer:
 
 [![](https://drive.google.com/thumbnail?authuser=0&sz=w1280&id=1gTQt6soSIq1g2QmK7locHDiZ-8MqVl2w)](https://drive.google.com/file/d/1gTQt6soSIq1g2QmK7locHDiZ-8MqVl2w/view?usp=sharing) 
 
+## How to embed a direct video on the readme ?
+
+Answer:
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/c0218d6a-f676-41f8-ae76-bba228866306" poster="figures/cover.png"> </video>
+  <p><i>SpatialLM reconstructs 3D layout from a monocular RGB video with MASt3R-SLAM. Results aligned to video with GT cameras for visualization.</i></p>
+</div>
+
 ## How to add a table in the readme ?
 
 Answer:
