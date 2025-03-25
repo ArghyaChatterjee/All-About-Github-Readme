@@ -137,6 +137,22 @@ Answer:
 
 </details>
 
-## How to add something as a summary bullet ?
+## How to add a table of contents as a summary bullet and refer to that section ?
+
+Answer:
+## 📄 Table of Contents
+
+- [📄 Table of Contents](#-table-of-contents)
+- [🥳 🚀 What's New](#--whats-new-)
+- [📖 Introduction](#-introduction-)
+- [🎁 Major Features](#-major-features-)
+- [🛠️ Installation](#️-installation-)
+- [👀 Model Zoo](#-model-zoo-)
+- [👨‍🏫 Get Started](#-get-started-)
+- [🎫 License](#-license-)
+- [🖊️ Citation](#️-citation-)
+- [🙌 Contributing](#-contributing-)
+- [🤝 Acknowledgement](#-acknowledgement-)
+- [🏗️ Projects in OpenMMLab](#️-projects-in-openmmlab-)
 
 ## Model Zoo [🔝](#-table-of-contents)
