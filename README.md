@@ -137,7 +137,7 @@ Answer:
 
 </details>
 
-## How to add a table of contents as a summary bullet and refer to that section ?
+## How to add a table of contents as a summary bullet and refer to that section from those summary bullets ?
 
 Answer:
 ## 📄 Table of Contents
