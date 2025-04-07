@@ -76,7 +76,7 @@ Answer:
 Answer:
 <div align="center">
   <video src="https://github.com/user-attachments/assets/c0218d6a-f676-41f8-ae76-bba228866306" poster="figures/cover.png"> </video>
-  <p><i>SpatialLM reconstructs 3D layout from a monocular RGB video with MASt3R-SLAM. Results aligned to video with GT cameras for visualization.</i></p>
+  <p><i>This reconstructs 3D layout from a monocular RGB video. Results aligned to video with GT cameras for visualization.</i></p>
 </div>
 
 ## How to add a table in the readme ?
