@@ -1,4 +1,5 @@
-# All-About-Github-Readme
+# Github Readme Tutorial
+
 This repository is all about instructions for writing good github readmes. 
 
 ## How to make the github readme title centered ?
